@@ -1,0 +1,3 @@
+<?php
+// Shared utility functions
+?>

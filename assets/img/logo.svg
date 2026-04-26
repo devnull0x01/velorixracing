@@ -1,0 +1,39 @@
+<svg width="100%" viewBox="0 0 680 300" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Velorix Racing</title>
+  <desc>Velorix Racing logo with orange and black Hot Wheels inspired colors</desc>
+
+  <rect x="0" y="0" width="680" height="300" fill="#111111" rx="12"/>
+
+  <line x1="30" y1="120" x2="180" y2="120" stroke="#FF6600" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+  <line x1="50" y1="135" x2="160" y2="135" stroke="#FF6600" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <line x1="70" y1="150" x2="145" y2="150" stroke="#FF6600" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/>
+  <line x1="30" y1="165" x2="160" y2="165" stroke="#FF6600" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <line x1="50" y1="180" x2="180" y2="180" stroke="#FF6600" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+
+  <line x1="500" y1="120" x2="650" y2="120" stroke="#FF6600" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+  <line x1="520" y1="135" x2="630" y2="135" stroke="#FF6600" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <line x1="535" y1="150" x2="610" y2="150" stroke="#FF6600" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/>
+  <line x1="520" y1="165" x2="630" y2="165" stroke="#FF6600" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <line x1="500" y1="180" x2="650" y2="180" stroke="#FF6600" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+
+  <rect x="180" y="68" width="320" height="6" fill="#FF6600" rx="3"/>
+  <text x="340" y="168" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="72" fill="#FFFFFF" letter-spacing="-2">VELORIX</text>
+  <rect x="180" y="182" width="320" height="6" fill="#FF6600" rx="3"/>
+  <text x="340" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-weight="400" font-size="18" fill="#FF6600" letter-spacing="10">RACING</text>
+
+  <g transform="translate(195, 72)">
+    <rect x="0" y="0" width="8" height="8" fill="#FFFFFF"/>
+    <rect x="8" y="0" width="8" height="8" fill="#FF6600"/>
+    <rect x="0" y="8" width="8" height="8" fill="#FF6600"/>
+    <rect x="8" y="8" width="8" height="8" fill="#FFFFFF"/>
+  </g>
+
+  <g transform="translate(461, 72)">
+    <rect x="0" y="0" width="8" height="8" fill="#FFFFFF"/>
+    <rect x="8" y="0" width="8" height="8" fill="#FF6600"/>
+    <rect x="0" y="8" width="8" height="8" fill="#FF6600"/>
+    <rect x="8" y="8" width="8" height="8" fill="#FFFFFF"/>
+  </g>
+
+  <text x="340" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-weight="400" font-size="13" fill="#888888" letter-spacing="3">STRAIGHT TRACK · REAL RESULTS</text>
+</svg>

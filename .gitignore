@@ -1,0 +1,16 @@
+# SQLite database
+data/*.sqlite
+data/*.db
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# PHP environment config (if local overrides added later)
+config/local.php

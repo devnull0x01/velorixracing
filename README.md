@@ -72,13 +72,6 @@ For licensing inquiries: devnull0x01 [at] gmail [dot] com
 
 For bugs and feature requests, please open a [GitHub Issue](https://github.com/devnull0x01/velorixracing/issues).
 
-## Contact
-
-For licensing inquiries: devnull0x01 [at] gmail [dot] com
-
-For bugs and feature requests, please open a [GitHub Issue]
-(https://github.com/devnull0x01/velorixracing/issues).
-
 ## License
 
 [Creative Commons Attribution-NonCommercial 4.0 International](LICENSE)
